@@ -37,3 +37,5 @@ function firstCapSecondLow(data) {
 console.log(firstCapSecondLow("hello"))
 console.log(firstCapSecondLow("hello WORLD"))
 
+
+
